@@ -1,9 +1,9 @@
-## 🚀 EE4107 - Parallel Programming Techniques
+# 🚀 EE4107 - Parallel Programming Techniques
 
 Assignments from the Introduction to Parallel Programming Techniques module (EE4107) at Aston University (2020–2021).
 Course Instructor: Prof. Stylianos Sygletos | Program: Erasmus Mundus SMARNET
 
-# 📌 Course Overview
+## 📌 Course Overview
 
 Objective:
 Develop proficiency in parallel computing architectures and algorithm design using:
@@ -22,7 +22,7 @@ Key Topics:
 
     Sorting & discrete optimization
 
-# 🏗️ Repository Structure
+## 🏗️ Repository Structure
 text
 
 EE4107-Parallel-Programming/
@@ -36,13 +36,14 @@ EE4107-Parallel-Programming/
 ├── docs/              # Lab reports & performance summaries
 └── README.md
 
-# ⚙️ Technical Stack
+## ⚙️ Technical Stack
 Task	Technology	Focus
 Message Passing	MPI (C/C++)	Distributed memory systems
 Shared Memory	OpenMP (C/C++)	Multi-threading
 GPU Acceleration	CUDA/OpenCL	Heterogeneous computing
 Performance Metrics	Speedup/Efficiency	Scalability analysis
-# 📝 Assignments Summary
+
+## 📝 Assignments Summary
 
     MPI Basics: Point-to-point communication.
 
@@ -58,7 +59,7 @@ Performance Metrics	Speedup/Efficiency	Scalability analysis
 
     Hybrid Model: Combined MPI+OpenMP for load balancing.
 
-# 📜 Academic Context
+## 📜 Academic Context
 
 Linked to Research:
 
